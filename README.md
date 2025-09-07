@@ -7,11 +7,11 @@
 
 - <> I’m looking for help with **studying and using C into projects, but any help for any recommended languages are welcome!**
 
-- <> My first ever Project in C [BeginnerCProjects](https://github.com/vuieee/BeginnerCProjects)
+- <> My first ever Project in C: [BeginnerCProjects](https://github.com/vuieee/BeginnerCProjects)
 
-- <> My Email **joshua.reed.omamalin@gmail.com**
+- <> My Email: **joshua.reed.omamalin@gmail.com**
 
-- <> Fun fact **I was not a STEM Student at all, I came from HUMSS(>-<**
+- <> Fun fact: **I was not a STEM Student at all, I came from HUMSS(>-<**
 
 # **Tech Stack:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
