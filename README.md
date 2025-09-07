@@ -6,9 +6,9 @@
 - <> I’m currently learning **C and other various languages for future projects!**
 
 - <> I’m looking for help with **studying and using C into projects, but any help for any recommended languages are welcome!**
-- 
+
 - <> My first ever Project in C [BeginnerCProjects](https://github.com/vuieee/BeginnerCProjects)
-- 
+
 - <> My Email **joshua.reed.omamalin@gmail.com**
 
 - <> Fun fact **I was not a STEM Student at all, I came from HUMSS(>-<**
