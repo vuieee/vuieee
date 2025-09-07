@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Joshua</h1>
+<h1 align="center">Hi 👋, I'm Joshua Reed</h1>
 <h3 align="center">A novice programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> </p>
 
 - 🌱 I’m currently learning **C and other various languages for future projects!**
 
-- 🤝 I’m looking for help with **studying and using C into projects, but any help is a welcomed help!**
+- 🤝 I’m looking for help with **studying and using C into projects, but any help for any recommended languages is welcome!**
 
 - 📫 My Email **joshua.reed.omamalin@gmail.com**
 
