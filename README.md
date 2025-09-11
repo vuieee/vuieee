@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> </p>
 
-- Main Project: [BeginnerCProjects](https://github.com/vuieee/BeginnerCProjects)
+- **Beginner Entries**: [BeginnerCProjects](https://github.com/vuieee/BeginnerCProjects)
 
-- Email: **joshua.reed.omamalin@gmail.com**
+- **Reach out to me**: **joshua.reed.omamalin@gmail.com**
 
 - Fun fact: **I am not a STEM Student at all, I came from HUMSS(>-<**
 
