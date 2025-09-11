@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> </p>
 
-- **Beginner Entries**: [BeginnerCProjects](https://github.com/vuieee/BeginnerCProjects)
+- **Project Entry**: [BeginnerCProjects](https://github.com/vuieee/BeginnerCProjects)
 
 - **Reach out to me**: **joshua.reed.omamalin@gmail.com**
 
