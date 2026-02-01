@@ -1,9 +1,9 @@
 <h1 align="center">Hello world, I'm Joshua Reed</h1>
-<h3 align="center">A novice programmer
+<h3 align="center">Web Developer and Designer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> </p>
 
- **Project Entry:** [BeginnerCProjects](https://github.com/vuieee/BeginnerCProjects)
+ **Project Entry:** [Termii](https://github.com/vuieee/Termii)
 
  **Reach out to me:** **joshua.reed.omamalin@gmail.com**
 
