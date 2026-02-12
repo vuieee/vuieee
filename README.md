@@ -1,9 +1,8 @@
-<h1 align="center">Hello world, I'm Joshua Reed</h1>
-<h3 align="center">Web Developer and Designer
+<h1 align="center">Web Developer and Designer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> </p>
 
-**Portfolio Website [WIP]:** [Termii](https://github.com/vuieee/Termii) 
+**Repository of the Month:** [Termii](https://github.com/vuieee/Termii) 
 
 **Email:** **joshua.reed.omamalin@gmail.com**
 
