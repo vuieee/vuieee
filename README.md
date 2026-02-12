@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> </p>
 
-**Repository of the Month:** [Termii](https://github.com/vuieee/Termii) 
-
 **Email:** **joshua.reed.omamalin@gmail.com**
 
 ###
