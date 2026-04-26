@@ -7,7 +7,7 @@
 
 # About Me
 
-- 1st Year Information Technology Student @ University of San Carlos - Talamban Campus
+- 1st Year Information Technology Student at the University of San Carlos - Talamban Campus
 - Specializes in Front-End Websites & Programs/Applications
 
 # Languages Used:
