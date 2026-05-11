@@ -1,4 +1,4 @@
-<h1 align="center">Front-End Web Developer and Designer</h1>
+<h1 align="center">Web Developer and Designer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> </p>
 
 <div align="center">
