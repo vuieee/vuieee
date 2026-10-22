@@ -1,9 +1,9 @@
 <h1 align="center">Web Developer and Designer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> 
   <img src="https://img.shields.io/github/followers/vuieee?label=Followers&color=0e75b6&style=flat" alt="Followers" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vuieee/vuieee/main/stars.json&style=flat" alt="Total Stars" />
+  <img src="https://img.shields.io/github/stars/vuieee?style=flat&label=Total%20Stars&color=0e75b6&affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" alt="Total Stars" />
 </p>
 
 <div align="center">
