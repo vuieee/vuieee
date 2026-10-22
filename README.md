@@ -1,5 +1,3 @@
-<h1 align="center">Web Developer and Designer</h1>
-
 <div align="center">
   <img src="animatedbanner2.gif" alt="Cherry Blossom Banner" width="100%" />
 </div>
@@ -11,6 +9,10 @@
   <img src="https://img.shields.io/github/followers/vuieee?label=Followers&color=0e75b6&style=flat" alt="Followers" />
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vuieee/vuieee/main/stars.json&style=flat" alt="Total Stars" />
 </p>
+
+---
+
+<h1 align="center">Web Developer and Designer</h1>
 
 # About Me
 
