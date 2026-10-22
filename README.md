@@ -2,7 +2,7 @@
   <img src="animatedbanner2.gif" alt="Cherry Blossom Banner" width="100%" />
 </div>
 
----
+<h1 align="center">Web Developer and Designer</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,8 +11,6 @@
 </p>
 
 ---
-
-<h1 align="center">Web Developer and Designer</h1>
 
 # About Me
 
