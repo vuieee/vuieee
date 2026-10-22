@@ -1,9 +1,8 @@
 <h1 align="center">Web Developer and Designer</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> 
   <img src="https://img.shields.io/github/followers/vuieee?label=Followers&color=0e75b6&style=flat" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/vuieee?style=flat&label=Total%20Stars&color=0e75b6&affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" alt="Total Stars" />
 </p>
 
 <div align="center">
@@ -12,7 +11,7 @@
 
 # About Me
 
-- 1st Year Information Technology Student at the University of San Carlos - Talamban Campus
+- 2nd Year Information Technology Student at the University of San Carlos - Talamban Campus
 - Specializes in Front-End Websites & Programs/Applications
 
 # Languages Used:
