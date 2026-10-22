@@ -9,6 +9,7 @@
 <div align="center">
   <img src="animatedbanner2.gif" alt="Cherry Blossom Banner" width="100%" />
 </div>
+
 # About Me
 
 - 1st Year Information Technology Student at the University of San Carlos - Talamban Campus
