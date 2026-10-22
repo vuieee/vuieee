@@ -1,9 +1,16 @@
 <h1 align="center">Web Developer and Designer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> </p>
 
 <div align="center">
   <img src="animatedbanner2.gif" alt="Cherry Blossom Banner" width="100%" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vuieee?label=Followers&color=0e75b6&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vuieee/vuieee/main/stars.json&style=flat" alt="Total Stars" />
+</p>
 
 # About Me
 
