@@ -1,4 +1,6 @@
-<p align="left">
+<h1 align="center">Joshua Omamalin</h1>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="vuieee" /> 
   <img src="https://img.shields.io/github/followers/vuieee?label=Followers&color=0e75b6&style=flat" alt="Followers" />
 </p>
@@ -6,8 +8,6 @@
 <div align="center">
   <img src="animatedbanner2.gif" alt="Cherry Blossom Banner" width="100%" />
 </div>
-
-<h1 align="center">Joshua Omamalin</h1>
 
 <h3 align="left">About me</h3>
 <hr>
