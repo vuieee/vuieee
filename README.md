@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="animatedbanner2.gif" alt="Cherry Blossom Banner" width="100%" />
-</div>
-
 <div>
   <a href="https://linkedin.com/in/joshuaomamalin">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -14,6 +10,10 @@
     <img src="https://komarev.com/ghpvc/?username=vuieee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/vuieee?label=Followers&color=0e75b6&style=flat" alt="Followers" />
   </span>
+</div>
+
+<div align="center">
+  <img src="animatedbanner2.gif" alt="Cherry Blossom Banner" width="100%" />
 </div>
 
 <h3 align="left">About me</h3>
