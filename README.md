@@ -12,8 +12,8 @@
 <h3 align="left">About me</h3>
 <hr>
 
-I am an Information Technology Student at the University of San Carlos - Talamban Campus. 
-My interest include Front-End Web and Mobile Development. 
+I am an Information Technology student at the University of San Carlos with a long-standing interest in technology, especially websites. I build
+personal and school software projects across web, desktop, and system-level tools. 
 
 <h3 align="left">Technical Skills</h3>
 <hr>
