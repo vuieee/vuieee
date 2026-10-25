@@ -1,5 +1,3 @@
-<h1 align="center">Joshua Omamalin</h1>
-
 <div align="center">
   <img src="animatedbanner2.gif" alt="Cherry Blossom Banner" width="100%" />
 </div>
