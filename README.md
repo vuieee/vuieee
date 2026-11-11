@@ -1,4 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=vuieee)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vuieee" alt="Profile Views" />
+</p>
 
 <a href="https://github.com/vuieee">
   <img height="200" align="left" src="./generated/stats.svg" alt="GitHub stats" />
